@@ -13,8 +13,8 @@
 
     <ImageView
         android:id="@+id/ivLogo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
@@ -63,7 +63,7 @@
         android:layout_alignBottom="@+id/btnRem"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:onClick="login"
+        android:onClick="calllogin"
         android:text="LOGIN" />
 
 </RelativeLayout>

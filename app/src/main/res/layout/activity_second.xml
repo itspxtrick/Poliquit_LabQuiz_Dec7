@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="61dp"
-        android:onClick="logout"
+        android:layout_marginBottom="130dp"
+        android:onClick="calllogout"
         android:text="LOGOUT" />
 </RelativeLayout>
